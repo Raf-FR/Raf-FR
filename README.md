@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 ```yaml
-name: Rafif (Raf-FR)
+name: Rafif Fairuz (Raf-FR)
 role: Web Developer
 location: Indonesia
 passions: [Web Development, Open Source, Problem Solving]
@@ -39,6 +39,25 @@ fun_fact: Turning coffee into clean and scalable web applications ☕
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Raf-FR/Raf-FR/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Raf-FR/Raf-FR/output/pacman-contribution-graph.svg"
+    />
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/Raf-FR/Raf-FR/output/pacman-contribution-graph-dark.svg"
+    />
+  </picture>
+</div>
+
+<br/>
+
 <p align="center">
   <a href="https://github.com/Raf-FR">
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raf-FR&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
@@ -48,6 +67,24 @@ fun_fact: Turning coffee into clean and scalable web applications ☕
     <img src="https://streak-stats.demolab.com?user=Raf-FR&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
   </a>
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="mailto:rafiffairuz10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/rafifr._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Raf-FR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
@@ -62,24 +99,6 @@ fun_fact: Turning coffee into clean and scalable web applications ☕
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Raf-FR&repo=galon-app&theme=tokyonight&hide_border=false&border_radius=10&border_color=3b82f6&bg_color=0d1117" width="400" alt="galon-app" />
   </a>
 </p>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
 
 <br/>
 
