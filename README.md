@@ -1,10 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=3b82f6,8b5cf6,ec4899&height=220&section=header&text=Hi%20There,%20I'm%20Raf-FR&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20PHP%20and%20Laravel%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <a href="#readme">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=3b82f6,8b5cf6,ec4899&height=220&section=header&text=Hi%20There,%20I'm%20Raf-FR&fontSize=42&fontAlignY=40&animation=fadeIn&desc=Web%20Developer%20%7C%20PHP%20and%20Laravel%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%26+Tech+Enthusiast;Laravel%2C+PHP+%26+Node.js;Firebase+%26+Modern+Web+Apps;Passionate+about+Clean+Code" alt="Typing SVG" />
+  <a href="#readme">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%26+Tech+Enthusiast;Laravel%2C+PHP+%26+Node.js;Firebase+%26+Modern+Web+Apps;Passionate+about+Clean+Code" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,8 +33,10 @@ fun_fact: Turning coffee into clean and scalable web applications ☕
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,firebase,mysql&perline=8" alt="Core Skills" /><br/>
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,postman,npm&perline=8" alt="Tools & Libraries" />
+  <a href="#-tech-stack--skills">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,nodejs,firebase,mysql&perline=8" alt="Core Skills" /><br/>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,git,github,vscode,postman,npm&perline=8" alt="Tools & Libraries" />
+  </a>
 </p>
 
 ---
@@ -40,31 +44,24 @@ fun_fact: Turning coffee into clean and scalable web applications ☕
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Raf-FR/Raf-FR/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Raf-FR/Raf-FR/output/pacman-contribution-graph.svg"
-    />
+  <a href="#-github-analytics">
     <img
+      src="https://github.com/Raf-FR/Raf-FR/raw/output/pacman-contribution-graph-dark.svg"
       alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/Raf-FR/Raf-FR/output/pacman-contribution-graph-dark.svg"
+      width="100%"
     />
-  </picture>
+  </a>
 </div>
 
 <br/>
 
 <p align="center">
   <a href="https://github.com/Raf-FR">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raf-FR&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Raf-FR&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="150" alt="Top Languages" />
   </a>
   &nbsp;
   <a href="https://github.com/Raf-FR">
-    <img src="https://streak-stats.demolab.com?user=Raf-FR&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Raf-FR&theme=tokyonight&hide_border=false&border_radius=10&border=30363d&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=58a6ff&stroke=30363d" height="150" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -81,27 +78,15 @@ fun_fact: Turning coffee into clean and scalable web applications ☕
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="https://github.com/Raf-FR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Raf-FR/sfcoffee">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Raf-FR&repo=sfcoffee&theme=tokyonight&hide_border=false&border_radius=10&border_color=3b82f6&bg_color=0d1117" width="400" alt="sfcoffee" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Raf-FR/galon-app">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Raf-FR&repo=galon-app&theme=tokyonight&hide_border=false&border_radius=10&border_color=3b82f6&bg_color=0d1117" width="400" alt="galon-app" />
-  </a>
-</p>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=3b82f6,8b5cf6,ec4899&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <a href="#readme">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_colors=3b82f6,8b5cf6,ec4899&height=120&section=footer" width="100%" alt="Footer Banner" />
+  </a>
 </div>
